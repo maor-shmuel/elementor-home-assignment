@@ -1,0 +1,6 @@
+{
+  "path_to_input_file": "input/ds1.csv",
+  "virus_total_api_key": "42bf5e6e61afea58b73713aa38de05e9e86e43a5ec2f16cc58f66d34bb1d23f8",
+  "data_freshness_threshold_minutes": 30,
+  "db_location": "sqlite.db"
+}
